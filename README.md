@@ -32,9 +32,10 @@ cd SPY-INFOGA/
 
 sudo bash SPY-INFOGA.sh
 
-** TESTED ON -:**
+**TESTED ON -:**
 
 OS -: Kali Linux
+
 Version -: 2021.2
 
 
